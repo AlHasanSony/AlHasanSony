@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 
 <h1 align="center">Hi 👋, I'm Al Hasan Sony</h1>
 <h3 align="center">🚀 A passionate developer, always learning. EEE graduate.</h3>
