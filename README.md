@@ -17,6 +17,10 @@
 - 📄 Know about me [https://www.linkedin.com/in/al-hasan-sony/](https://www.linkedin.com/in/al-hasan-sony/)
 
 - 🎼 Fun fact **I love playing guitar**
+  
+- ⛹️‍♂️ I love experimenting with programming languages.
+
+
 
 
 <h3 align="left">Connect with me:</h3>
