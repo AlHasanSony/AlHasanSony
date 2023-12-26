@@ -22,9 +22,9 @@
   
 - ⛹️‍♂️ I love experimenting with programming languages.
 
-<br><br><br>
+<br><br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My appearance on social media:</h3>
 <p align="left">
 <a href="https://twitter.com/alhasansony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alhasansony" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/al-hasan-sony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-hasan-sony" height="30" width="40" /></a>
@@ -37,7 +37,7 @@
 </p>
 
 
-<br><br><br>
+<br><br>
 
 
 <h3 align="left">Languages and Tools:</h3>
