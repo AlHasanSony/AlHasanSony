@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Al Hasan Sony</h1> 
 
 <h3 align="center">🚀 A passionate developer, always learning. EEE graduate.</h3>
-<br>
+<br><br>
 
 
 - 🎮 [**Foggy Rainfall Escapade**: My 2D indie platformer game, now on Steam.](https://store.steampowered.com/app/2499310/Foggy_Rainfall_Escapade/)
