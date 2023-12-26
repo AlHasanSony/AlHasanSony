@@ -5,7 +5,8 @@
 
 
 - 🎮 ['Foggy Rainfall Escapade': My 2D indie platformer game, now on Steam.](https://store.steampowered.com/app/2499310/Foggy_Rainfall_Escapade/)
-<img width="722" alt="image" src="https://github.com/AlHasanSony/AlHasanSony/assets/48161357/531e82fc-22c9-448e-82fc-1e19db13109a">
+[![image](https://github.com/AlHasanSony/AlHasanSony/assets/48161357/531e82fc-22c9-448e-82fc-1e19db13109a)](https://store.steampowered.com/app/2499310/Foggy_Rainfall_Escapade/)
+
 
 
 - 📝 I write articles on [https://medium.com/@alhasansony4](https://medium.com/@alhasansony4)
