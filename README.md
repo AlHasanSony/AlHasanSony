@@ -22,12 +22,7 @@
   
 - ⛹️‍♂️ I love experimenting with programming languages.
 
-
-
-
 <br><br><br>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,8 +38,6 @@
 
 
 <br><br><br>
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
