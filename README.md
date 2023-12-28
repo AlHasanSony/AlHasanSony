@@ -24,7 +24,7 @@
 
 <br><br>
 
-- 📄 Check out my site: [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
+- 🛜 Check out my site: [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
 
 <br><br>
 
