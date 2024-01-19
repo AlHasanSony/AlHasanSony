@@ -19,6 +19,11 @@
 
 </p>
 
+<p align="center">
+This game art is from the mentioned game of mine, titled 'Foggy Rainfall Escapade.'
+</p>
+
+
 <!--
 
 This is a comment
