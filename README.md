@@ -6,7 +6,7 @@
 <br><br>
 
 
-- 🎮 [**Foggy Rainfall Escapade**: My 2D indie platformer game, now on Steam.](https://store.steampowered.com/app/2499310/Foggy_Rainfall_Escapade/)
+- 🎮 [**Foggy Rainfall Escapade**: My 2D indie platformer game, now on Steam (Windows OS).](https://store.steampowered.com/app/2499310/Foggy_Rainfall_Escapade/)
 - 🎮 [Also available on Apple App Store for MacOS.](https://apps.apple.com/us/app/foggy-rainfall-escapade/id6475210013)
 
 <!--
