@@ -5,9 +5,9 @@ Hi, I'm [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
 -->
 
 
-<div align="center">
+
 # Hi, I'm <span style="font-size:1.2em;">[AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)</span>
-</div>
+
 
 
 
