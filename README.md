@@ -1,6 +1,8 @@
 
 
 Hi, I'm [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
+# Hi, I'm <span style="font-size:1.2em;">[AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)</span>
+
 
 <h3 align="center">🚀 A passionate developer, Flutter Expert, Game Developer, always learning. EEE graduate.</h3>
 <br><br>
