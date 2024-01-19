@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm [Al Hasan Sony](https://alhasansony.github.io/portfolio-al-hasan-sony/)</h1> 
+Hi, I'm [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
 
 <h3 align="center">🚀 A passionate developer, Flutter Expert, Game Developer, always learning. EEE graduate.</h3>
 <br><br>
