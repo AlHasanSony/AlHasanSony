@@ -29,7 +29,7 @@ Hi, I'm [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
 </p>
 
 <p align="center">
-This game art is from the mentioned game of mine, titled 'Foggy Rainfall Escapade.'
+Game art of Foggy Rainfall Escapade
 </p>
 
 
