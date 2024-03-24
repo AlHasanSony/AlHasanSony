@@ -14,6 +14,9 @@ Hi, I'm [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
 <h3 align="center">🚀 A passionate developer, Flutter Expert, Game Developer, always learning. EEE graduate.</h3>
 <br><br>
 
+- 📱 [**Python Notebook**: Python Notebook is now available for Android. The app offers beautiful gradient screens to make your experience better.](https://play.google.com/store/apps/details?id=com.alhasansony.PythonNotebook)
+
+
 
 - 🎮 [**Foggy Rainfall Escapade**: My 2D indie platformer game, now on Steam (Windows OS).](https://store.steampowered.com/app/2499310/Foggy_Rainfall_Escapade/)
 - 🎮 [Also available on Apple App Store for MacOS.](https://apps.apple.com/us/app/foggy-rainfall-escapade/id6475210013)
