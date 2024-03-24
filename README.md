@@ -15,13 +15,14 @@ Hi, I'm [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
 <br><br>
 
 - 📱 [**Python Notebook**: Python Notebook is now available for Android. The app offers beautiful gradient screens to make your experience better.](https://play.google.com/store/apps/details?id=com.alhasansony.PythonNotebook)
-<img width="100" alt="image" src="https://github.com/AlHasanSony/AlHasanSony/assets/48161357/356381ae-3ce7-496c-943a-6322c62e6f63">
+<img width="100" alt="image" src="https://github.com/AlHasanSony/AlHasanSony/assets/48161357/2101e16a-6ba7-41c0-8076-a0d4d4349741">
 
 
 
 
 - 🎮 [**Foggy Rainfall Escapade**: My 2D indie platformer game, now on Steam (Windows OS).](https://store.steampowered.com/app/2499310/Foggy_Rainfall_Escapade/)
 - 🎮 [Also available on Apple App Store for MacOS.](https://apps.apple.com/us/app/foggy-rainfall-escapade/id6475210013)
+
 
 <!--
 [![image](https://github.com/AlHasanSony/AlHasanSony/assets/48161357/531e82fc-22c9-448e-82fc-1e19db13109a)]([https://store.steampowered.com/app/2499310/Foggy_Rainfall_Escapade/](https://apps.apple.com/us/app/foggy-rainfall-escapade/id6475210013?mt=12))
