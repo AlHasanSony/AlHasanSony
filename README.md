@@ -16,14 +16,23 @@ Hi, I'm [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
 
 - 📱 [**Python Notebook**: Python Notebook is now available for Android. The app offers beautiful gradient screens to make your experience better.](https://play.google.com/store/apps/details?id=com.alhasansony.PythonNotebook)
 
+
+
+
+
+<p align="center">
+
+<img width="600" alt="image" src="https://github.com/AlHasanSony/AlHasanSony/assets/48161357/6b87ace6-8497-4fc1-ba80-55a116252963">
+
+</p>
+
+<!--
 <div style="display: flex; justify-content: space-between;">
     <img width="550" alt="image" src="https://github.com/AlHasanSony/AlHasanSony/assets/48161357/6b87ace6-8497-4fc1-ba80-55a116252963">
-<!--     <img width="400" alt="image" src="https://github.com/AlHasanSony/AlHasanSony/assets/48161357/2101e16a-6ba7-41c0-8076-a0d4d4349741">
-    <img width="400" alt="image" src="https://github.com/AlHasanSony/AlHasanSony/assets/48161357/702e30c8-9216-4907-86f3-683955b6575f"> -->
+    <img width="400" alt="image" src="https://github.com/AlHasanSony/AlHasanSony/assets/48161357/2101e16a-6ba7-41c0-8076-a0d4d4349741">
+    <img width="400" alt="image" src="https://github.com/AlHasanSony/AlHasanSony/assets/48161357/702e30c8-9216-4907-86f3-683955b6575f">
 </div>
-
-
-
+-->
 
 
 - 🎮 [**Foggy Rainfall Escapade**: My 2D indie platformer game, now on Steam (Windows OS).](https://store.steampowered.com/app/2499310/Foggy_Rainfall_Escapade/)
