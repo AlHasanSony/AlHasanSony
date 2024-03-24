@@ -18,6 +18,11 @@ Hi, I'm [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
 <img width="600" alt="image" src="https://github.com/AlHasanSony/AlHasanSony/assets/48161357/2101e16a-6ba7-41c0-8076-a0d4d4349741">
 <img width="600" alt="image" src="https://github.com/AlHasanSony/AlHasanSony/assets/48161357/702e30c8-9216-4907-86f3-683955b6575f">
 
+<div style="display: flex; justify-content: space-between;">
+    <img width="400" alt="image" src="https://github.com/AlHasanSony/AlHasanSony/assets/48161357/2101e16a-6ba7-41c0-8076-a0d4d4349741">
+    <img width="400" alt="image" src="https://github.com/AlHasanSony/AlHasanSony/assets/48161357/702e30c8-9216-4907-86f3-683955b6575f">
+</div>
+
 
 
 
