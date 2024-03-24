@@ -15,11 +15,6 @@ Hi, I'm [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
 <br><br>
 
 - 📱 [**Python Notebook**: Python Notebook is now available for Android. The app offers beautiful gradient screens to make your experience better.](https://play.google.com/store/apps/details?id=com.alhasansony.PythonNotebook)
-![1](https://github.com/AlHasanSony/AlHasanSony/assets/48161357/fe90610b-fbed-47c1-9f43-072f3188c27a)
-![2](https://github.com/AlHasanSony/AlHasanSony/assets/48161357/3ed88dca-97a9-4497-8158-8f19ad98eec1)![3](https://github.com/AlHasanSony/AlHasanSony/assets/48161357/794e7b7e-0d3f-4e5f-85fa-f1d574723d43)![Uploading 5.png…]()
-
-![6](https://github.com/AlHasanSony/AlHasanSony/assets/48161357/24b080f6-94cc-4689-a35d-393b29227eb6)
-
 
 
 
