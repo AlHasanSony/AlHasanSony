@@ -79,7 +79,7 @@ This is a comment
 <br><br>
 
 - 🛜 Check out my site: [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
-- 🎮 Check out my site: [Astrinex Games](https://astrinexgames.space/)
+- 🎮 Game dev studio: [Astrinex Games](https://astrinexgames.space/)
 
 <br><br>
 
