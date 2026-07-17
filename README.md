@@ -11,7 +11,7 @@ Hi, I'm [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
 
 
 
-<h3 align="center">🚀 A passionate developer, Flutter Expert, Game Developer, always learning. EEE graduate.</h3>
+<h3 align="center">🚀 A passionate Developer, Flutter Expert, Game Developer, Graphic Designer,... always learning. EEE grad.</h3>
 <br><br>
 
 - 📱 [**Python Notebook**: Python Notebook is now available for Android. The app offers beautiful gradient screens to make your experience better.](https://play.google.com/store/apps/details?id=com.alhasansony.PythonNotebook)
