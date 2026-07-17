@@ -78,8 +78,10 @@ This is a comment
 
 <br><br>
 
-- 🛜 Check out my site: [AL HASAN SONY](https://alhasansony.github.io/portfolio-al-hasan-sony/)
+
 - 🎮 Game dev studio: [Astrinex Games](https://astrinexgames.space/)
+- 🛜 Check out my other works: [SPRINT MOTION](https://astrinexgames.space/sprintmotion.html)
+
 
 <br><br>
 
