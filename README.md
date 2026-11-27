@@ -80,8 +80,9 @@ This is a comment
 
 
 - 🎮 Game dev studio: [Astrinex Games](https://astrinexgames.space/)
+<!--
 - 🛜 Check out my other works: [SPRINT MOTION](https://astrinexgames.space/sprintmotion.html)
-
+-->
 
 <br><br>
 
